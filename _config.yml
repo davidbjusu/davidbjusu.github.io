@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "DAVID BANDANA JSU"
 title_separator          : "-"
 name                     : &name "David Bandana Jusu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,14 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DV2026_PHOTO.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile1.png"
+  name             : "David Bandana Jusu"
+  bio              : "Data Analyst and Informatics Engineer"
+  location         : "Boszormenyi ut 140, Debrecen"
+  employer         : "University of Debrecen"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "davidjusu218@mailbox.unideb.hu" 
 
   # Academic websites
   academia         : # URL
