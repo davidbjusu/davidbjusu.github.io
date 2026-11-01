@@ -23,7 +23,7 @@ repository               : "davidbjusu/davidbjusu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile1.png"
+  avatar           : "profile1.png"
   name             : "David Bandana Jusu"
   bio              : "Data Analyst and Informatics Engineer"
   location         : "Boszormenyi ut 140, Debrecen"
